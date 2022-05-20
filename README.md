@@ -1,4 +1,4 @@
-# dnata-movies-api
+# movies-api
 
 ## How to run?
 
