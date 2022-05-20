@@ -1,5 +1,3 @@
-# movies-api
-
 ## How to run?
 
 1-) It's a code first project, so you just need to update the DBConnectionString in appsettings.json with your MSSQL servers. Make sure the DBUser has the required privileges to create a database.
